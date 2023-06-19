@@ -2,7 +2,7 @@
 
 ## Colaboradores
 - Sofía Barrientos
+- Ricardo Fuentes
 - Boris Vargas
 - Héctor Santibáñez
-- Pedro de la Barra
 - Benjamín Rodríguez
