@@ -3,6 +3,7 @@
 ## Colaboradores
 - Sofía Barrientos
 - Ricardo Fuentes
-- Boris Vargas
 - Héctor Santibáñez
 - Benjamín Rodríguez
+- Luis Saavedra
+- Elvis Olmedo
