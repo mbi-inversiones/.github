@@ -7,3 +7,4 @@
 - Benjamín Rodríguez
 - Luis Saavedra
 - Elvis Olmedo
+- Roberto Vargas
